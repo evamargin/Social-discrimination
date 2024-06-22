@@ -1,2 +1,2 @@
 # Social-discrimination
-This repo contain python notebooks for analysing silicone probe recordings in mice performing social tasks.
+This repo contains python notebooks for analyzing silicone probe recordings in mice performing social tasks.
